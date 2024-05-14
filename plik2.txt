@@ -1,1 +1,1 @@
-To jest plik drugi.
+To jest zmodyfikowany plik drugi.
