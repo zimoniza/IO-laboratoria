@@ -1,1 +1,1 @@
-Repozytorium na laboratorium z Inżynierii Oprogramowania - gałąź główna.
+Repozytorium na laboratorium z Inżynierii Oprogramowania - gałąź druga.
